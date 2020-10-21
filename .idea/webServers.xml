@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a77d093-e77a-4c88-bb26-b2d2dcbeb260" name="build21_cloudmc" url="http://build21.kill.corp.qihoo.net">
+        <fileTransfer rootFolder="/home/zhangzhou/data/docker_dev_home/web/CloudRule/cloudmc" accessType="SFTP" host="build21.kill.corp.qihoo.net" port="22" sshConfigId="eeb3596a-0aa0-4d3d-816f-51ac203c5fda" sshConfig="zhangzhou@build21.kill.corp.qihoo.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
